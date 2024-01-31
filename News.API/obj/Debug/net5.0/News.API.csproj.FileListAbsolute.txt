@@ -1,0 +1,136 @@
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\appsettings.Development.json
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\appsettings.json
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.API.exe
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.API.deps.json
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.API.runtimeconfig.json
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.API.runtimeconfig.dev.json
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.API.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.API.pdb
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.DAL.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.Models.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.DAL.pdb
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\News.Models.pdb
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.csproj.AssemblyReference.cache
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.AssemblyInfoInputs.cache
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.AssemblyInfo.cs
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.csproj.CoreCompileInputs.cache
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.MvcApplicationPartsAssemblyInfo.cs
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.MvcApplicationPartsAssemblyInfo.cache
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\scopedcss\bundle\News.API.styles.css
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\staticwebassets\News.API.StaticWebAssets.Manifest.cache
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.RazorTargetAssemblyInfo.cache
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.csproj.CopyComplete
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.dll
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\refint\News.API.dll
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.pdb
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\News.API.genruntimeconfig.cache
+C:\C# Projects\News.API\News.API\obj\Debug\net5.0\ref\News.API.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Humanizer.dll
+C:\C# Projects\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\appsettings.json
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.API.exe
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.API.deps.json
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.API.runtimeconfig.json
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.API.runtimeconfig.dev.json
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.API.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.API.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Humanizer.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.DAL.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.Models.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.Services.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.DAL.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.Services.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\News.Models.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.csproj.AssemblyReference.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.AssemblyInfoInputs.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.AssemblyInfo.cs
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.csproj.CoreCompileInputs.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\scopedcss\bundle\News.API.styles.css
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\staticwebassets\News.API.StaticWebAssets.Manifest.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.RazorTargetAssemblyInfo.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.csproj.CopyComplete
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\refint\News.API.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.pdb
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\News.API.genruntimeconfig.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\ref\News.API.dll
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\staticwebassets\News.API.StaticWebAssets.Pack.cache
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\staticwebassets\msbuild.News.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\staticwebassets\msbuild.build.News.API.props
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.News.API.props
+C:\Nermin_Eliyeva_git\News.API\News.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.News.API.props
+C:\Nermin_Eliyeva_git\News.API\News.API\bin\Debug\net5.0\Gelf.Extensions.Logging.dll

@@ -1,0 +1,24 @@
+C:\C# Projects\News.API\News.Models\bin\Debug\net5.0\News.Models.deps.json
+C:\C# Projects\News.API\News.Models\bin\Debug\net5.0\News.Models.dll
+C:\C# Projects\News.API\News.Models\bin\Debug\net5.0\News.Models.pdb
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\News.Models.csproj.AssemblyReference.cache
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\News.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\News.Models.AssemblyInfoInputs.cache
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\News.Models.AssemblyInfo.cs
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\News.Models.csproj.CoreCompileInputs.cache
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\News.Models.dll
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\refint\News.Models.dll
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\News.Models.pdb
+C:\C# Projects\News.API\News.Models\obj\Debug\net5.0\ref\News.Models.dll
+C:\Nermin_Eliyeva_git\News.API\News.Models\bin\Debug\net5.0\News.Models.deps.json
+C:\Nermin_Eliyeva_git\News.API\News.Models\bin\Debug\net5.0\News.Models.dll
+C:\Nermin_Eliyeva_git\News.API\News.Models\bin\Debug\net5.0\News.Models.pdb
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.csproj.AssemblyReference.cache
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.AssemblyInfoInputs.cache
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.AssemblyInfo.cs
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.csproj.CoreCompileInputs.cache
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.dll
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\refint\News.Models.dll
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.pdb
+C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\ref\News.Models.dll
