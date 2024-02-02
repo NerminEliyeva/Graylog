@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vGMb7Bj/Qei8mFHx/cHcUmrV0yitufggH00DvgFgcsOwlYOvRe1bSpRv6TCwblPWtlUdMCwFUIRI7nRkDE6U7A==",
+  "dgSpecHash": "wR/yLrV2NeUGEeqcRWo91DXWMto5Gc5rXVW0aRtpewIajOTIIyv5vKsQT/82nDsubVZtuPxwtHmNeWDQ9kyhjA==",
   "success": true,
-  "projectFilePath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Services\\News.Services.csproj",
+  "projectFilePath": "C:\\Code_Academy_Git\\Graylog\\News.Services\\News.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

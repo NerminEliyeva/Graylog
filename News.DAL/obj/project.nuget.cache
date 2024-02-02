@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ulrEglrVplo++v5y9KXzhhextVPRjI6E5zsQvKNOV6SRuA6bjAwU88v7klKgfgvXh1NoZG2QKrzkV1XmjacTcg==",
+  "dgSpecHash": "QdwxEfOGG2ShKS/l8kVNfJvukR2HKMdUfDvgKK4TZqx/zVKSfgAlYFM8dGDd5LolbokS3bOyUv5/mA0RKN+7WQ==",
   "success": true,
-  "projectFilePath": "C:\\Nermin_Eliyeva_git\\News.API\\News.DAL\\News.DAL.csproj",
+  "projectFilePath": "C:\\Code_Academy_Git\\Graylog\\News.DAL\\News.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

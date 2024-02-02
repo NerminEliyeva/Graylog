@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "News.Services", "News.Servi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "News.Test", "News.Test\News.Test.csproj", "{F97D2989-5643-42A7-90FB-13958B8636E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsMVC", "NewsMVC\NewsMVC.csproj", "{0805A998-1DDA-4C25-88C2-9C88BE512E1D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{F97D2989-5643-42A7-90FB-13958B8636E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F97D2989-5643-42A7-90FB-13958B8636E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97D2989-5643-42A7-90FB-13958B8636E1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0805A998-1DDA-4C25-88C2-9C88BE512E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0805A998-1DDA-4C25-88C2-9C88BE512E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0805A998-1DDA-4C25-88C2-9C88BE512E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0805A998-1DDA-4C25-88C2-9C88BE512E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

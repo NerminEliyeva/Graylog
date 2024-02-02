@@ -22,3 +22,15 @@ C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.dll
 C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\refint\News.Models.dll
 C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\News.Models.pdb
 C:\Nermin_Eliyeva_git\News.API\News.Models\obj\Debug\net5.0\ref\News.Models.dll
+C:\Code_Academy_Git\Graylog\News.Models\bin\Debug\net5.0\News.Models.deps.json
+C:\Code_Academy_Git\Graylog\News.Models\bin\Debug\net5.0\News.Models.dll
+C:\Code_Academy_Git\Graylog\News.Models\bin\Debug\net5.0\News.Models.pdb
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\News.Models.csproj.AssemblyReference.cache
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\News.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\News.Models.AssemblyInfoInputs.cache
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\News.Models.AssemblyInfo.cs
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\News.Models.csproj.CoreCompileInputs.cache
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\News.Models.dll
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\refint\News.Models.dll
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\News.Models.pdb
+C:\Code_Academy_Git\Graylog\News.Models\obj\Debug\net5.0\ref\News.Models.dll

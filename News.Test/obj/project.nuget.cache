@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLt/BVSDnIFlHaHCCAspAgme7qy0lwX/tf9ZeWUPkW3hPn+CYOZvfrF5j5WWScmBAkeeMMm8GyVAYCBxeMXhyg==",
+  "dgSpecHash": "H2bNozVmJgBQA/5xC8n1d5Y9S+FhRWRB5SOInnRsWV9VHzWM0P8Ksqtu0426FGQeqNJTeoHsU2ndOFoKS5X3RQ==",
   "success": true,
-  "projectFilePath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Test\\News.Test.csproj",
+  "projectFilePath": "C:\\Code_Academy_Git\\Graylog\\News.Test\\News.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

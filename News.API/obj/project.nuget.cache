@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+Et83IcHCDYXRIrljV0oy7yIRIAZcI/Lb2iWBbNdBk5YYm7Wj/O0Wjn7/0DigI4JuBcq5jNxTt7ekZ6KiuSJw==",
+  "dgSpecHash": "/F6ln6PbfqMcnmajIbELDaXjBniihSsGT9jJPYLFYUSxy8INSYbq48N7X2Z8+EwjDoQmMMhJ3NA1kEERnbNEnA==",
   "success": true,
-  "projectFilePath": "C:\\Nermin_Eliyeva_git\\News.API\\News.API\\News.API.csproj",
+  "projectFilePath": "C:\\Code_Academy_Git\\Graylog\\News.API\\News.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\gelf.extensions.logging\\2.6.0\\gelf.extensions.logging.2.6.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

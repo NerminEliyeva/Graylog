@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wi1IKaT3TGYtyvpwBMThidUIyMbgDbrcP6y7bIo7LW1W/kZkCE2b96+ewpoRsyEQ97AXxUhQPOZK/F1yQ2cdoA==",
+  "dgSpecHash": "h8ANF4s53RXijlStfigG6Kq8u6LTCadKEU4/L/SXjRIdFBgDo2ih85+BHzNJdg1KzHlVEEPoZCJnPuS7nDs0/A==",
   "success": true,
-  "projectFilePath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\News.Models.csproj",
+  "projectFilePath": "C:\\Code_Academy_Git\\Graylog\\News.Models\\News.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

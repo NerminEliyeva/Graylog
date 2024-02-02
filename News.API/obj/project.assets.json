@@ -6438,11 +6438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nermin_Eliyeva_git\\News.API\\News.API\\News.API.csproj",
+      "projectUniqueName": "C:\\Code_Academy_Git\\Graylog\\News.API\\News.API.csproj",
       "projectName": "News.API",
-      "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.API\\News.API.csproj",
+      "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.API\\News.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.API\\obj\\",
+      "outputPath": "C:\\Code_Academy_Git\\Graylog\\News.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6463,11 +6463,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Nermin_Eliyeva_git\\News.API\\News.DAL\\News.DAL.csproj": {
-              "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.DAL\\News.DAL.csproj"
+            "C:\\Code_Academy_Git\\Graylog\\News.DAL\\News.DAL.csproj": {
+              "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.DAL\\News.DAL.csproj"
             },
-            "C:\\Nermin_Eliyeva_git\\News.API\\News.Services\\News.Services.csproj": {
-              "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Services\\News.Services.csproj"
+            "C:\\Code_Academy_Git\\Graylog\\News.Services\\News.Services.csproj": {
+              "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.Services\\News.Services.csproj"
             }
           }
         }

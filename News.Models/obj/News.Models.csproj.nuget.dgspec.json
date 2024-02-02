@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\News.Models.csproj": {}
+    "C:\\Code_Academy_Git\\Graylog\\News.Models\\News.Models.csproj": {}
   },
   "projects": {
-    "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\News.Models.csproj": {
+    "C:\\Code_Academy_Git\\Graylog\\News.Models\\News.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\News.Models.csproj",
+        "projectUniqueName": "C:\\Code_Academy_Git\\Graylog\\News.Models\\News.Models.csproj",
         "projectName": "News.Models",
-        "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\News.Models.csproj",
+        "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.Models\\News.Models.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\obj\\",
+        "outputPath": "C:\\Code_Academy_Git\\Graylog\\News.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

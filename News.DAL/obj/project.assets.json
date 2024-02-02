@@ -6013,11 +6013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nermin_Eliyeva_git\\News.API\\News.DAL\\News.DAL.csproj",
+      "projectUniqueName": "C:\\Code_Academy_Git\\Graylog\\News.DAL\\News.DAL.csproj",
       "projectName": "News.DAL",
-      "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.DAL\\News.DAL.csproj",
+      "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.DAL\\News.DAL.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.DAL\\obj\\",
+      "outputPath": "C:\\Code_Academy_Git\\Graylog\\News.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6038,8 +6038,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\News.Models.csproj": {
-              "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Models\\News.Models.csproj"
+            "C:\\Code_Academy_Git\\Graylog\\News.Models\\News.Models.csproj": {
+              "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.Models\\News.Models.csproj"
             }
           }
         }

@@ -36,21 +36,21 @@ namespace News.Test
             Assert.True(result.IsSuccess);
         }
 
-        //[Theory]
-        //[InlineData(5, 120)]
-        //[InlineData(4, 24)]
-        //[InlineData(0, 1)]
-        //public void TestNewsFact(int inputx, int outputx)
-        //{
-        //    var result = _newsService.FactMethod(inputx);
-        //    Assert.Equal(outputx, result.Obj);
-        //}
+        [Theory]
+        [InlineData(5, 120)]
+        [InlineData(4, 24)]
+        [InlineData(0, 1)]
+        public void TestNewsFact(int inputx, int outputx)
+        {
+            var result = _newsService.FactMethod(inputx);
+            Assert.Equal(outputx, result.Obj);
+        }
 
-        //[Fact]
-        //public void TestNewsFactMinus()
-        //{
-        //    var result = _newsService.FactMethod(-5);
-        //    Assert.False(result.IsSuccess);
-        //}
+        [Fact]
+        public void TestNewsFactMinus()
+        {
+            var result = _newsService.FactMethod(-5);
+            Assert.False(result.IsSuccess);
+        }
     }
 }

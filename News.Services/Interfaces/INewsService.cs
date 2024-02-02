@@ -16,6 +16,6 @@ namespace News.Services.Interfaces
         BaseResponsModel<NewsEntity> GetById(int id);
         BaseResponsModel<List<NewsEntity>> GetAll();
         BaseResponsModel<bool> Delete(int id);
-       // BaseResponsModel<int> FactMethod(int x);
+        BaseResponsModel<int> FactMethod(int x);
     }
 }

@@ -8774,11 +8774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nermin_Eliyeva_git\\News.API\\News.Test\\News.Test.csproj",
+      "projectUniqueName": "C:\\Code_Academy_Git\\Graylog\\News.Test\\News.Test.csproj",
       "projectName": "News.Test",
-      "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Test\\News.Test.csproj",
+      "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.Test\\News.Test.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Test\\obj\\",
+      "outputPath": "C:\\Code_Academy_Git\\Graylog\\News.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8799,8 +8799,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Nermin_Eliyeva_git\\News.API\\News.Services\\News.Services.csproj": {
-              "projectPath": "C:\\Nermin_Eliyeva_git\\News.API\\News.Services\\News.Services.csproj"
+            "C:\\Code_Academy_Git\\Graylog\\News.Services\\News.Services.csproj": {
+              "projectPath": "C:\\Code_Academy_Git\\Graylog\\News.Services\\News.Services.csproj"
             }
           }
         }
